@@ -8,7 +8,7 @@ const NotFound = ({IsCheck}) => {
         if(error.true === true && error.typeErro === 404) {
             return <S.text>Not found user</S.text>
         }
-        if(error.true === true && error.typeErro != 404) {
+        if(error.true === true && error.typeErro !== 404) {
             return <S.text>SERVER ERROR</S.text>
         }
     }
