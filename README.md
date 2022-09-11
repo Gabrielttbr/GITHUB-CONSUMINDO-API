@@ -8,9 +8,9 @@ site: https://gabrielttbr.github.io/GITHUB-CONSUMINDO-API/
 ## Telas 
 
 ### Pesquisa de usuário
-![Página de pesquisa](./src/assests/reuslts.png)
+![Página de pesquisa](./src/assests/searh.png)
 ### Página de exibição 
-![Página de exibição](./src/assests/searh.png)
+![Página de exibição](./src/assests/reuslts.png)
 
 
 
