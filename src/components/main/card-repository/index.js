@@ -7,7 +7,6 @@ const CardRepository = ({name,  fullName, linkToRepo}) => {
         <S.Container>
             <h1>{name}</h1>
             <p>full_name: </p>
-            <a href={linkToRepo} target="_blank" rel="noreferrer"> {fullName}</a>
         </S.Container>
     )
 };
